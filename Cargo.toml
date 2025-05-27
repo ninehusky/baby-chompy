@@ -1,0 +1,7 @@
+[package]
+name = "baby-chompy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+easter-egg = { path = "./easter-egg" }
