@@ -1,0 +1,3 @@
+[submodule "easter-egg"]
+	path = easter-egg
+	url = git@github.com:eytans/easter-egg.git
